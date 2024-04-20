@@ -4,7 +4,7 @@ import Card from './components/cards'
 function App() {
 
   return (
-    <div className='bg-slate-300 min-h-dvh'>
+    <div className='bg-neutral-800 text-white min-h-dvh'>
       <Card/>
     </div>
   )
