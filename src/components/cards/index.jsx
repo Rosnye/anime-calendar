@@ -28,7 +28,7 @@ const Card = () => {
     };
     
     return (
-        <div>
+        <div className='flex flex-col items-center w-full'>
             <h1>Anime Calendar</h1>
             <div>
                 <input
